@@ -25,13 +25,13 @@ The project aims to explore the integration of Cloud Computing technology to enh
 11. Secure Data Handling  
 
 ### Requirements:
-Windows or Linux (min 8GB RAM)  
-Python 3.12 (or later)
-Microsoft Power BI  
-Google Cloud SDK Shell
-GitHub Desktop
-Health and Pharma Datasets (.csv or .xlsx)  
-SSH Computing VM Instance Designed on GCP  
+1. Windows or Linux (min 8GB RAM)  
+2. Python 3.12 (or later)
+3. Microsoft Power BI  
+4. Google Cloud SDK Shell
+5. GitHub Desktop
+6. Health and Pharma Datasets (.csv or .xlsx)  
+7. SSH Computing VM Instance Designed on GCP  
 
 ### Results Analysis
 Our journey through cloud-based healthcare analysis has yielded tangible and impactful results. The integration of Python scripts on Google Cloud Platform (GCP) has fortified our decision-making process, ensuring efficiency and accuracy. 
