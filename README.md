@@ -34,26 +34,23 @@ The project aims to explore the integration of Cloud Computing technology to enh
 7. SSH Computing VM Instance Designed on GCP  
 
 ### Results Analysis
-Our journey through cloud-based healthcare analysis has yielded tangible and impactful results. The integration of Python scripts on Google Cloud Platform (GCP) has fortified our decision-making process, ensuring efficiency and accuracy. 
 
-Explore with us the valuable data-driven insights, including medicine sales, ratings, drug analysis, and prescription categorization, hosted on GCP Virtual Machine Instances. Witness the successful embedding of Power BI in a custom HTML webpage, enhancing data visualization and facilitating user-friendly exploration for healthcare professionals and researchers alike.
+__1. Data Import and Cleansing -__ In the initial step, healthcare datasets, encompassing medicines, companies, and ratings, were imported into Power BI. These raw datasets often contain inconsistencies, missing values, and inaccuracies. The data cleansing process aimed to rectify these issues. The result was successful data import and transformation, ensuring data quality for subsequent analysis.
 
-1. Data Import and Cleansing : In the initial step, healthcare datasets, encompassing medicines, companies, and ratings, were imported into Power BI. These raw datasets often contain inconsistencies, missing values, and inaccuracies. The data cleansing process aimed to rectify these issues. The result was successful data import and transformation, ensuring data quality for subsequent analysis.
+__2. Data Transformation with Power BI Advanced Query Editor -__ Data transformation plays a pivotal role in data analysis. Using the advanced query editor, the dataset underwent necessary transformations, which included standardizing categories and addressing missing values. This transformed data is structured and optimized for analysis, forming a solid foundation for further insights.
 
-2. Data Transformation with Power BI Advanced Query Editor - Data transformation plays a pivotal role in data analysis. Using the advanced query editor, the dataset underwent necessary transformations, which included standardizing categories and addressing missing values. This transformed data is structured and optimized for analysis, forming a solid foundation for further insights.
+__3. Power BI Health Dashboard Creation -__ Creating a comprehensive dashboard is a fundamental step in the methodology. Power BI, a powerful data visualization tool, was used for this purpose. The dashboard brings together various visualizations and key insights, making healthcare data accessible and user-friendly for professionals and researchers.
 
-3. Power BI Health Dashboard Creation - Creating a comprehensive dashboard is a fundamental step in the methodology. Power BI, a powerful data visualization tool, was used for this purpose. The dashboard brings together various visualizations and key insights, making healthcare data accessible and user-friendly for professionals and researchers.
+__4. Visualization on Power BI -__ The theory behind data visualization guided the selection of visualization types. Visualization choices included word clouds, bar charts, scatter plots, and other forms. These visualizations offered valuable insights into various aspects, such as company counts, medicine trends, and prescription analytics, simplifying complex data for interpretation.
 
-4. Visualization on Power BI - The theory behind data visualization guided the selection of visualization types. Visualization choices included word clouds, bar charts, scatter plots, and other forms. These visualizations offered valuable insights into various aspects, such as company counts, medicine trends, and prescription analytics, simplifying complex data for interpretation.
+__5. Designing our HTML Webpage -__ A custom HTML webpage was designed to ensure accessibility to the project's findings. The webpage design aligns with user experience and accessibility principles, creating a user-friendly platform for accessing healthcare insights.
 
-5. Designing our HTML Webpage - A custom HTML webpage was designed to ensure accessibility to the project's findings. The webpage design aligns with user experience and accessibility principles, creating a user-friendly platform for accessing healthcare insights.
+__6. Python Scripts for Enhanced Decision-Making Functionality -__ The implementation of enhanced decision-making functionality is made using the Google Cloud Platform (GCP). By employing Python scripts and leveraging GCP services, the decision-making process is now more robust and efficient. The datasets stored in Google Cloud, will be fetched automatically without the need to download and save on local PC. This ensures high accuracy and ease of access.
 
-6. Python Scripts for Enhanced Decision-Making Functionality - The implementation of enhanced decision-making functionality is made using the Google Cloud Platform (GCP). By employing Python scripts and leveraging GCP services, the decision-making process is now more robust and efficient. The datasets stored in Google Cloud, will be fetched automatically without the need to download and save on local PC. This ensures high accuracy and ease of access.
-
-7. Secure Data Handling - Ensuring the security of healthcare data is paramount. The integration of secure data handling measures in the project involves stringent protocols during the data retrieval process. 
+__7. Secure Data Handling -__ Ensuring the security of healthcare data is paramount. The integration of secure data handling measures in the project involves stringent protocols during the data retrieval process. 
 Encrypted channels, such as HTTPS, are utilized to safeguard against potential data interception, ensuring the integrity and confidentiality of the information being transferred.
 
-8. Data Protection through Private Google Cloud Buckets - To fortify real data protection, the project implemented a strategy of uploading datasets onto private Google Cloud Buckets. This ensures that sensitive data remains shielded and is used exclusively for computational purposes without the need to expose its contents to end-users. 
+__8. Data Protection through Private Google Cloud Buckets -__ To fortify real data protection, the project implemented a strategy of uploading datasets onto private Google Cloud Buckets. This ensures that sensitive data remains shielded and is used exclusively for computational purposes without the need to expose its contents to end-users. 
 The utilization of private buckets adds an extra layer of security, allowing for robust computing while maintaining the confidentiality of the healthcare datasets.
 
 ### Conclusion:
@@ -61,4 +58,7 @@ Our project, navigating data import, transformation, and visualization alongside
 
 This project underscores the growing role of cloud technologies in healthcare, providing efficient analysis tools and paving the way for innovation. The addition of Python scripts on GCP enhances decision-making functionality, automating dataset retrieval for accuracy. Data-driven insights on GCP instances offer valuable analytics, prioritizing security through encrypted channels and private Google Cloud Buckets. The project aligns with evolving cloud technologies, fostering innovation in healthcare and life sciences.
 
-© [2023] Department of Apex Institute of Technology - Major Project of Prabal Manhas
+__© [2023] Department of Apex Institute of Technology - Major Project of Prabal Manhas__
+
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=manhasprabal)
+
