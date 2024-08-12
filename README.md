@@ -30,7 +30,7 @@ The project aims to explore the integration of Cloud Computing technology to enh
 6. Health and Pharma Datasets (.csv or .xlsx)  
 7. SSH Computing VM Instance Designed on GCP  
 
-### Results & Analysis
+### Results & Analysis:
 
 __1. Data Import and Cleansing -__ In the initial step, healthcare datasets, encompassing medicines, companies, and ratings, were imported into Power BI. These raw datasets often contain inconsistencies, missing values, and inaccuracies. The data cleansing process aimed to rectify these issues. The result was successful data import and transformation, ensuring data quality for subsequent analysis.
 
