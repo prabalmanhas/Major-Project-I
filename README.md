@@ -45,7 +45,6 @@ __3. Power BI Health Dashboard Creation -__ Creating a comprehensive dashboard i
 
 __4. Visualization on Power BI -__ The theory behind data visualization guided the selection of visualization types. Visualization choices included word clouds, bar charts, scatter plots, and other forms. These visualizations offered valuable insights into various aspects, such as company counts, medicine trends, and prescription analytics, simplifying complex data for interpretation.
 
-![Outputs Screenshots-26](https://github.com/user-attachments/assets/6278a59d-c0be-47e3-921b-1a247da36375)
 ![Outputs Screenshots-14](https://github.com/user-attachments/assets/0e25ccb8-1691-4b73-b5bb-ec2cd9a25689)
 ![Outputs Screenshots-16](https://github.com/user-attachments/assets/d7adba8a-95eb-48e0-a2e5-2de70803d3f1)
 ![Outputs Screenshots-18](https://github.com/user-attachments/assets/213c52ca-2f70-416b-a36d-848795c68fc9)
