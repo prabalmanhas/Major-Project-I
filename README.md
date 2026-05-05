@@ -1,7 +1,7 @@
 # Major-Project-I
 # Pharma Forge Dynamics - Harnessing Cloud Synergy for Streamlined Healthcare and Life Sciences Ventures
 
-Live Webpage: https://prabalmanhas.github.io/Major-Project-I/
+[![Research Paper](https://img.shields.io/badge/Paper-Read-blue?style=for-the-badge)](https://ieeexplore.ieee.org/document/10404275/)
 
 ![](https://github.com/prabalmanhas/Major-Project-I/blob/main/projectbanner.png)
 
